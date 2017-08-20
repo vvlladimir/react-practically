@@ -1,0 +1,31 @@
+{
+  "name": "react-practically",
+  "version": "1.0.0",
+  "description": "Rad na single page aplikaciji. Prakticna upotreba React.js biblioteke.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvlladimir/react-practically.git"
+  },
+  "author": "Vladimir Todorovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vvlladimir/react-practically/issues"
+  },
+  "homepage": "https://github.com/vvlladimir/react-practically#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-react": "^3.1.0",
+    "gulp-webserver": "^0.9.1",
+    "jshint-stylish": "^2.2.1",
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {}
+}
